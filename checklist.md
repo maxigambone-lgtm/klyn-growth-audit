@@ -53,3 +53,16 @@
 **Estado del proyecto:** ✅ Completado
 
 Todos los requisitos solicitados por la actividad fueron desarrollados y documentados dentro del repositorio. La estructura propuesta permite acceder fácilmente al blog principal, al análisis post-mortem, a la reflexión sobre el feedback y a la evidencia del proceso de trabajo realizado durante el desarrollo del proyecto.
+
+---
+
+## Enlaces del proyecto
+
+- 🌐 Blog publicado mediante GitHub Pages.
+- 📁 Repositorio público en GitHub.
+- 📄 Blog técnico.
+- 📄 Documento Post-Mortem.
+- 📄 Reflexión sobre Feedback.
+- 📄 Evidencia del control de versiones.
+
+Todos los documentos forman parte del mismo repositorio y evidencian el proceso de trabajo desarrollado durante el proyecto.
