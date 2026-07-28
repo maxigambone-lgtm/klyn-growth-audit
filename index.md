@@ -1,10 +1,6 @@
 ---
 layout: default
 title: KLYN Growth Audit
-
-> ## Resumen Ejecutivo
->
-> Este artículo presenta un caso de estudio basado en el desarrollo de distintas auditorías para **KLYN Dress**. A partir de un desafío relacionado con la organización de la documentación y la gestión del conocimiento, se implementaron prácticas de comunicación, control de versiones y análisis post-mortem que permitieron mejorar el proceso de trabajo y fortalecer una mentalidad de crecimiento.
 ---
 
 # Cómo la documentación y el control de versiones transformaron una auditoría de marketing en una oportunidad de aprendizaje
@@ -13,6 +9,25 @@ title: KLYN Growth Audit
 
 **Autor:** Máximo Gambone
 
+**Fecha:** Julio 2026
+
+---
+
+## Resumen Ejecutivo
+
+Este artículo presenta un caso de estudio basado en el desarrollo de distintas auditorías para **KLYN Dress**. A partir de un desafío relacionado con la organización de la documentación y la gestión del conocimiento, se implementaron prácticas de comunicación, control de versiones y análisis post-mortem que permitieron mejorar el proceso de trabajo y fortalecer una mentalidad de crecimiento.
+
+---
+
+## Índice
+
+- Introducción
+- Contexto
+- El desafío
+- Acciones implementadas
+- Resultados obtenidos
+- Conclusión
+  
 **Fecha:** Julio 2026
 
 ---
