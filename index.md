@@ -59,3 +59,34 @@ Durante el desarrollo del proyecto detecté las siguientes dificultades:
 - La estructura documental podía mejorarse para facilitar futuras modificaciones.
 
 Este escenario evidenció la necesidad de incorporar herramientas y procesos que permitieran mantener un mayor control sobre la evolución del proyecto.
+
+---
+
+# Acciones implementadas
+
+Una vez identificado el problema, decidí reorganizar el proyecto aplicando prácticas utilizadas en equipos de desarrollo de software y gestión de proyectos. El objetivo no era únicamente ordenar los archivos, sino crear un sistema de trabajo que facilitara la documentación, el seguimiento de cambios y la mejora continua.
+
+## 1. Centralización de la información
+
+El primer paso consistió en reunir toda la documentación del proyecto en un único repositorio de GitHub. De esta forma, cada auditoría, análisis y documento quedó almacenado en un mismo lugar, evitando la dispersión de información y facilitando el acceso a los archivos.
+
+## 2. Organización de la documentación
+
+Se definió una estructura clara para el proyecto, separando el contenido en distintos documentos según su finalidad. Esto permitió localizar rápidamente la información, mantener un orden lógico y simplificar futuras actualizaciones.
+
+## 3. Implementación del control de versiones
+
+Cada modificación importante fue registrada mediante commits en GitHub. Este proceso permitió mantener un historial de cambios, identificar la evolución del proyecto y garantizar que cada mejora quedara documentada.
+
+## 4. Documentación del proceso
+
+Además del contenido de las auditorías, se documentaron las decisiones tomadas durante el desarrollo del proyecto, los cambios implementados y las razones detrás de cada mejora. Esto favoreció la trazabilidad del trabajo y facilitó la comprensión del proceso completo.
+
+## Resumen de las mejoras implementadas
+
+| Problema detectado | Acción implementada | Resultado obtenido |
+|--------------------|---------------------|--------------------|
+| Información distribuida en varios documentos | Centralización en un único repositorio | Mayor organización y acceso a la información |
+| Cambios difíciles de rastrear | Uso de control de versiones con GitHub | Historial claro de modificaciones |
+| Falta de documentación del proceso | Registro de decisiones y actualizaciones | Mejor trazabilidad del proyecto |
+| Organización documental mejorable | Estructuración del repositorio | Navegación más simple y mantenimiento más sencillo |
