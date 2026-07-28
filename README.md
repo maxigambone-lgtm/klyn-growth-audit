@@ -1,19 +1,57 @@
-# KLYN Growth Case Study
+# KLYN Growth Audit
 
 ## Comunicación en Entornos Digitales y Mentalidad de Crecimiento
 
-Este repositorio documenta el desarrollo de un caso de estudio basado en la auditoría realizada para KLYN Dress.
+Bienvenido a este caso de estudio desarrollado a partir de la auditoría realizada para **KLYN Dress**, una marca de indumentaria urbana con presencia en canales digitales.
 
-El objetivo fue aplicar prácticas de documentación, control de versiones y análisis post-mortem para mejorar la organización del proyecto y fortalecer la comunicación en entornos digitales.
+Este proyecto documenta cómo un desafío relacionado con la organización de la información y la comunicación durante una auditoría fue transformado en una oportunidad de aprendizaje mediante el uso de documentación estructurada, control de versiones y un análisis post-mortem.
 
-## Contenido
+---
 
-- 📄 Blog técnico
-- 📊 Caso de estudio
-- 📝 Post-Mortem
-- 💬 Reflexión sobre feedback
-- ✅ Checklist final
+## Objetivo
+
+El propósito de este repositorio es demostrar la aplicación de buenas prácticas de comunicación en entornos digitales, fomentando una mentalidad de crecimiento a través de:
+
+- Documentación clara y organizada.
+- Análisis post-mortem.
+- Control de versiones con GitHub.
+- Reflexión sobre el feedback recibido.
+- Aprendizajes obtenidos durante el proyecto.
+
+---
+
+## Contenido del proyecto
+
+📖 **Blog Técnico**
+
+- `index.md`
+
+📄 **Análisis Post-Mortem**
+
+- `postmortem.md`
+
+💬 **Reflexión sobre Feedback**
+
+- `feedback.md`
+
+✅ **Checklist de Entrega**
+
+- `checklist.md`
+
+---
+
+## Herramientas utilizadas
+
+- GitHub
+- GitHub Pages
+- Markdown
+- Control de versiones
+- Documentación técnica
+
+---
 
 ## Autor
 
-Máximo Gambone
+**Máximo Gambone**
+
+Proyecto académico – Comunicación en Entornos Digitales y Mentalidad de Crecimiento
