@@ -91,4 +91,24 @@ Además del contenido de las auditorías, se documentaron las decisiones tomadas
 | Falta de documentación del proceso | Registro de decisiones y actualizaciones | Mejor trazabilidad del proyecto |
 | Organización documental mejorable | Estructuración del repositorio | Navegación más simple y mantenimiento más sencillo |
 
+---
 
+# Conclusión
+
+El desarrollo de este proyecto permitió comprobar que la comunicación, la documentación y la organización son componentes esenciales para el éxito de cualquier iniciativa, incluso cuando se trata de una auditoría de marketing y no de un proyecto de desarrollo de software.
+
+La incorporación de herramientas como GitHub para el control de versiones, junto con la elaboración de un análisis post-mortem y una reflexión sobre el feedback recibido, permitió transformar un desafío organizativo en una oportunidad de aprendizaje. Estas prácticas facilitaron el seguimiento del trabajo realizado y fortalecieron la capacidad para documentar procesos de forma clara y estructurada.
+
+Más allá de los resultados obtenidos para KLYN Dress, este proyecto representó una oportunidad para desarrollar competencias relacionadas con la mentalidad de crecimiento, la mejora continua y la comunicación en entornos digitales. La experiencia demostró que aprender implica no solo resolver problemas, sino también analizar el proceso, documentarlo y utilizar ese conocimiento para afrontar futuros desafíos con mejores herramientas y una perspectiva más sólida.
+
+---
+
+## Documentación complementaria
+
+Para ampliar el contenido presentado en este blog, el repositorio incluye la siguiente documentación:
+
+- 📄 **Post-Mortem:** `postmortem.md`
+- 💬 **Reflexión sobre Feedback Radicalmente Sincero:** `feedback.md`
+- ✅ **Checklist de entrega:** `checklist.md`
+
+Cada uno de estos documentos complementa el caso de estudio y evidencia el proceso de aprendizaje, organización y mejora continua desarrollado durante el proyecto.
