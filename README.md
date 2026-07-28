@@ -8,39 +8,42 @@ Este proyecto documenta cómo un desafío relacionado con la organización de la
 
 ---
 
-## Objetivo
+# 📊 KLYN Growth Audit
 
-El propósito de este repositorio es demostrar la aplicación de buenas prácticas de comunicación en entornos digitales, fomentando una mentalidad de crecimiento a través de:
-
-- Documentación clara y organizada.
-- Análisis post-mortem.
-- Control de versiones con GitHub.
-- Reflexión sobre el feedback recibido.
-- Aprendizajes obtenidos durante el proyecto.
+> **Caso de estudio sobre Comunicación en Entornos Digitales y Mentalidad de Crecimiento aplicado a la marca KLYN Dress.**
 
 ---
 
-## Contenido del proyecto
+## 📖 Descripción
 
-📖 **Blog Técnico**
+Este repositorio documenta el desarrollo de una auditoría realizada para **KLYN Dress**, una marca de indumentaria urbana.
 
-- `index.md`
-
-📄 **Análisis Post-Mortem**
-
-- `postmortem.md`
-
-💬 **Reflexión sobre Feedback**
-
-- `feedback.md`
-
-✅ **Checklist de Entrega**
-
-- `checklist.md`
+El proyecto muestra cómo un desafío relacionado con la organización de la documentación fue abordado mediante herramientas de comunicación, control de versiones y análisis post-mortem, aplicando una mentalidad de crecimiento y mejora continua.
 
 ---
 
-## Herramientas utilizadas
+## 🎯 Objetivos
+
+- Analizar un desafío real dentro del proyecto.
+- Aplicar una metodología de mejora continua.
+- Documentar el proceso de forma clara.
+- Utilizar GitHub como herramienta de control de versiones.
+- Evidenciar el aprendizaje obtenido durante el desarrollo.
+
+---
+
+## 📂 Estructura del repositorio
+
+| Documento | Descripción |
+|-----------|-------------|
+| `index.md` | Blog técnico del caso de estudio |
+| `postmortem.md` | Análisis Post-Mortem |
+| `feedback.md` | Reflexión sobre Feedback Radicalmente Sincero |
+| `checklist.md` | Checklist de entrega |
+
+---
+
+## 🛠 Herramientas utilizadas
 
 - GitHub
 - GitHub Pages
@@ -50,8 +53,8 @@ El propósito de este repositorio es demostrar la aplicación de buenas práctic
 
 ---
 
-## Autor
+## 👤 Autor
 
 **Máximo Gambone**
 
-Proyecto académico – Comunicación en Entornos Digitales y Mentalidad de Crecimiento
+Proyecto académico – Comunicación en Entornos Digitales y Mentalidad de Crecimiento.
