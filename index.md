@@ -90,3 +90,56 @@ Además del contenido de las auditorías, se documentaron las decisiones tomadas
 | Cambios difíciles de rastrear | Uso de control de versiones con GitHub | Historial claro de modificaciones |
 | Falta de documentación del proceso | Registro de decisiones y actualizaciones | Mejor trazabilidad del proyecto |
 | Organización documental mejorable | Estructuración del repositorio | Navegación más simple y mantenimiento más sencillo |
+
+---
+
+# Análisis Post-Mortem
+
+El objetivo de este análisis no es identificar responsables, sino comprender qué ocurrió, por qué ocurrió y qué acciones pueden implementarse para mejorar futuros proyectos. Adoptar una mentalidad de crecimiento implica entender que los errores y las dificultades forman parte del proceso de aprendizaje cuando son analizados de manera objetiva.
+
+## Descripción del incidente
+
+Durante el desarrollo de las auditorías para KLYN Dress, el volumen de información aumentó de manera constante. Se generaron múltiples documentos, versiones, análisis y propuestas que, con el paso del tiempo, comenzaron a dificultar la organización del proyecto y el seguimiento de las modificaciones realizadas.
+
+Si bien el contenido desarrollado era consistente y cumplía con los objetivos planteados, la ausencia de un sistema estructurado para registrar cambios y documentar decisiones hacía más complejo mantener el proyecto organizado y preparado para futuras actualizaciones.
+
+## Causa raíz
+
+Luego de analizar la situación, identifiqué tres factores principales que originaron el problema:
+
+- El proyecto creció más rápido que la estructura utilizada para organizar la documentación.
+- No existía un método definido para registrar la evolución del trabajo y las distintas versiones de los archivos.
+- Las decisiones importantes se implementaban, pero no siempre quedaban documentadas, lo que dificultaba comprender posteriormente el motivo de algunos cambios.
+
+## Impacto
+
+Aunque el proyecto pudo desarrollarse correctamente, esta situación generó algunas dificultades:
+
+- Mayor tiempo para localizar información específica.
+- Riesgo de trabajar sobre versiones desactualizadas.
+- Menor trazabilidad de las decisiones tomadas durante el proceso.
+- Mayor esfuerzo para mantener organizada la documentación.
+
+## Acciones correctivas
+
+Para resolver estas dificultades se implementaron las siguientes acciones:
+
+- Centralización de toda la documentación en un único repositorio.
+- Organización del contenido mediante una estructura clara de archivos.
+- Registro de los cambios realizados utilizando control de versiones.
+- Documentación de las principales decisiones adoptadas durante el proyecto.
+
+## Acciones preventivas
+
+Como aprendizaje para futuros proyectos, se definieron las siguientes prácticas:
+
+- Mantener una estructura documental desde el inicio del proyecto.
+- Registrar cada cambio importante mediante commits descriptivos.
+- Documentar las decisiones relevantes junto con sus fundamentos.
+- Revisar periódicamente la organización de la documentación para evitar la acumulación de información desordenada.
+
+## Lecciones aprendidas
+
+El principal aprendizaje obtenido fue comprender que la documentación no representa una tarea secundaria, sino una parte fundamental del desarrollo de cualquier proyecto. Una buena organización de la información facilita la comunicación, mejora la colaboración y permite que el conocimiento permanezca disponible incluso cuando el proyecto continúa creciendo.
+
+Este análisis permitió transformar una dificultad organizativa en una oportunidad para incorporar nuevas metodologías de trabajo y fortalecer una mentalidad orientada al aprendizaje continuo y la mejora constante.
