@@ -9,7 +9,11 @@ title: KLYN Growth Audit
 
 **Autor:** Máximo Gambone
 
+**Autor:** Máximo Gambone
+
 **Fecha:** Julio 2026
+
+**Tiempo estimado de lectura:** 7–8 minutos
 
 ---
 
@@ -21,16 +25,11 @@ Este artículo presenta un caso de estudio basado en el desarrollo de distintas 
 
 ## Índice
 
-- Introducción
-- Contexto
-- El desafío
-- Acciones implementadas
-- Resultados obtenidos
-- Conclusión
-  
-**Fecha:** Julio 2026
-
----
+- [Introducción](#introducción)
+- [Contexto](#contexto)
+- [El desafío](#el-desafío)
+- [Acciones implementadas](#acciones-implementadas)
+- [Conclusión](#conclusión)
 
 # Introducción
 
@@ -110,6 +109,16 @@ Además del contenido de las auditorías, se documentaron las decisiones tomadas
 | Falta de documentación del proceso | Registro de decisiones y actualizaciones | Mejor trazabilidad del proyecto |
 | Organización documental mejorable | Estructuración del repositorio | Navegación más simple y mantenimiento más sencillo |
 
+
+---
+
+# Resultados obtenidos
+
+La reorganización del proyecto permitió mejorar significativamente la gestión de la documentación y la trazabilidad de los cambios realizados. Centralizar la información en un repositorio de GitHub facilitó el acceso a todos los documentos y permitió mantener un historial claro de las modificaciones mediante el uso de control de versiones.
+
+Además, la creación de documentos específicos, como el análisis post-mortem y la reflexión sobre el feedback, contribuyó a estructurar el conocimiento generado durante el proyecto y a fortalecer una metodología de trabajo basada en la mejora continua.
+
+Como resultado, el proyecto no solo alcanzó los objetivos académicos planteados, sino que también incorporó prácticas utilizadas en entornos profesionales para organizar, comunicar y documentar procesos de manera más eficiente.
 ---
 
 # Conclusión
@@ -122,12 +131,12 @@ Más allá de los resultados obtenidos para KLYN Dress, este proyecto represent�
 
 ---
 
+
 ## Documentación complementaria
 
-Para ampliar el contenido presentado en este blog, el repositorio incluye la siguiente documentación:
-
-- 📄 **Post-Mortem:** `postmortem.md`
-- 💬 **Reflexión sobre Feedback Radicalmente Sincero:** `feedback.md`
-- ✅ **Checklist de entrega:** `checklist.md`
-
+- 📄 [Análisis Post-Mortem](postmortem.md)
+- 💬 [Feedback Radicalmente Sincero](feedback.md)
+- 🗂 [Control de Versiones](version-control.md)
+- ✅ [Checklist](checklist.md)
+  
 Cada uno de estos documentos complementa el caso de estudio y evidencia el proceso de aprendizaje, organización y mejora continua desarrollado durante el proyecto.
