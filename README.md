@@ -2,6 +2,14 @@
   <img src="assets/ChatGPT Image 31 jul 2026, 11_25_42 a.m..png" alt="KLYN Growth Audit Banner" width="100%">
 </p>
 
+<p align="center">
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Published-success?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-blue?style=for-the-badge)
+![Case Study](https://img.shields.io/badge/Case%20Study-KLYN%20Dress-black?style=for-the-badge)
+![Version Control](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge)
+
+</p>
  # 📊 KLYN Growth Audit
 
 > **Caso de estudio sobre Comunicación en Entornos Digitales y Mentalidad de Crecimiento aplicado a KLYN Dress.**
@@ -20,13 +28,13 @@ El objetivo no fue únicamente resolver un problema, sino documentar el aprendiz
 
 ## 📑 Navegación
 
-- [📖 Blog Técnico](index.md)
-- [📄 Post-Mortem](postmortem.md)
-- [💬 Feedback](feedback.md)
-- [🗂 Control de Versiones](version-control.md)
-- [✅ Checklist](checklist.md)
-
-  ---
+| Documento | Descripción |
+|-----------|-------------|
+| 📖 [Blog Técnico](index.md) | Caso de estudio principal |
+| 📄 [Post-Mortem](postmortem.md) | Análisis del incidente y mejoras |
+| 💬 [Feedback](feedback.md) | Reflexión sobre el feedback recibido |
+| 🗂 [Control de Versiones](version-control.md) | Evidencia del uso de Git |
+| ✅ [Checklist](checklist.md) | Verificación de requisitos |
 
 ## 🎯 Objetivos del proyecto
 
