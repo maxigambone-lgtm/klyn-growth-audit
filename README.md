@@ -1,3 +1,5 @@
+
+
 # KLYN Growth Audit
 
 ## Comunicación en Entornos Digitales y Mentalidad de Crecimiento
