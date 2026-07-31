@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/ChatGPT Image 31 jul 2026, 11_25_42 a.m..png" alt="KLYN Growth Audit Banner" width="100%">
+</p>
 
 # KLYN Growth Audit
 
