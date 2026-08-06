@@ -56,6 +56,7 @@ Cada una de estas auditorías generó una gran cantidad de información que deb�
 
 El crecimiento del proyecto permitió identificar un desafío relacionado con la gestión del conocimiento, dando origen al caso de estudio presentado en este blog.
 
+![Sitio web de KLYN Dress](assets/klyn-home.png)
 ---
 
 # El desafío
